@@ -1,11 +1,11 @@
 # Xposed Framework
 
-## Compatibility
-* Android Lollipop - Oreo
+## 兼容性
+* Android Lollipop(5.0) - Oreo(8.1)
 * Selinux enforcing
-* All root solutions (requires init.d support if not using magisk or supersu. Try [Init.d Injector](https://forum.xda-developers.com/android/software-hacking/mod-universal-init-d-injector-wip-t3692105))
+* 所有 root 解决方案 (如果不使用 Magisk 或 SuperSU, 则需要 init.d 支持. 尝试 [Init.d Injector](https://forum.xda-developers.com/android/software-hacking/mod-universal-init-d-injector-wip-t3692105))
 
-## Change Log
+## 变更日志
 ### v89/90b3r11 - 8.30.2018
 * Unity v1.6.1 update
 
@@ -45,5 +45,5 @@
 ### v89/90b3 - 2.5.2018
 * Initial rerelease
 
-## Source Code
+## 源代码
 * Module [GitHub](https://github.com/therealahrion/Audio-Modification-Library)

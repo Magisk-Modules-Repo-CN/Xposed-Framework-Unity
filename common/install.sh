@@ -1,4 +1,4 @@
-ui_print "   Decompressing files..."
+ui_print "   解压缩文件......"
 tar -xf $INSTALLER/custom/$API.tar.xz -C $INSTALLER/custom 2>/dev/null
 
 rm -rf /data/app/de.robv.android.xposed.installer /magisk/xposed* /sbin/.core/img/xposed*
